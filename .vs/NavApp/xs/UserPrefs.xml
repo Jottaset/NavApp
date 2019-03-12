@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D41853AC-1DAF-4114-B4C0-F641DFF49556}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavApp/ThirdPage.xaml.cs">
+    <Files>
+      <File FileName="NavApp/ThirdPage.xaml" Line="41" Column="1" />
+      <File FileName="NavApp/ThirdPage.xaml.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NavApp" expanded="True">
+            <Node name="NavApp" expanded="True">
+              <Node name="ThirdPage.xaml" expanded="True">
+                <Node name="ThirdPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="NavApp.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.ItemProperties.NavApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aluno/Projects/NavApp/NavApp/FourPage.xaml" relfile="NavApp/FourPage.xaml" line="18" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

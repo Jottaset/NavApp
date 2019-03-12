@@ -1,0 +1,9 @@
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/FifthPage.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/FourPage.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/SecondPage.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/ThirdPage.xaml.g.cs
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/NavApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/NavApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/NavApp/NavApp/obj/Debug/netstandard2.0/NavApp.AssemblyInfo.cs
